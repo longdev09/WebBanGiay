@@ -1,0 +1,29 @@
+
+.container-product{
+    max-width: 1500px;
+    margin: auto;
+}
+
+
+.product_contents{
+    background-color: azure;
+}
+.pro_list-navbar{
+    border: 1px solid #ddd;
+    padding: 12px;
+}
+.prolist_nav-link{
+    display: block;
+}
+.pro_list-nav-item{
+    position: relative;
+    padding: 9px 0 11px 68px;
+}
+.is-divider{
+    height: 3px;
+    display: block;
+    background-color: rgba(0,0,0,0.1);
+    margin: 1em 0 1em;
+    width: 100%;
+    max-width: 30px;
+}
